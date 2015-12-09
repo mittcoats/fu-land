@@ -1,0 +1,5 @@
+export GMAIL_USERNAME="mittcoats@gmail.com"
+export GMAUL_PASSWORD="SGmc@7213!"
+export MAILCHIMP_API_KEY="5126c435d7a0263d84ad1887350da85f-us12"
+export MAILCHIMP_LIST_ID="c6f958ac8e"
+export OWNER_EMAIL="info@fireupsports.com"
