@@ -21,6 +21,7 @@ gem 'foundation-rails'
 gem 'gibbon' 
 gem 'high_voltage' 
 gem 'simple_form' 
+gem "binding_of_caller"
 group :development do 
   gem 'better_errors' 
   gem 'quiet_assets' 
